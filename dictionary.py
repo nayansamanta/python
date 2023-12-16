@@ -29,5 +29,5 @@ phone_no_list=dict(
 # print(phone_no_list.values())
 # print(phone_no_list.items())
 
-for i in phone_no_list.items():
+for i in phone_no_list:
     print(i)
