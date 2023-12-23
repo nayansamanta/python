@@ -21,4 +21,4 @@ year=int(input("enter year :"))
 month=int(input("enter month :"))
 
 result=days_in_month(year , month)
-print(f"this month has {result} days ")
+print(f"this month has {result} days")
