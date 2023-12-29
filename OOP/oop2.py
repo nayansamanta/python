@@ -1,8 +1,6 @@
 class Instructor:
     pass
 instructor_1=Instructor()
-# print(type(instructor_1))
-class CarDesign:
-    pass
-maruti=CarDesign()
-lambargini=CarDesign()
+instructor_1.name="Nayan"
+instructor_1.adress="delhi"
+print(instructor_1.name)
