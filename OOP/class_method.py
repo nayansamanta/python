@@ -1,5 +1,5 @@
 class Method:
-    flowers=0
+    flowers=0       # it is class object variable
     def __init__(self , my_name , my_sarname) -> None:
         self.f_name=my_name
         self.l_name=my_sarname
